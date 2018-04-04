@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ Dylan\r\n\ @version\ 2.6.18\r\n
+comment1.params=seats\ speed\ name\ wheels\ cylinders\ doors
+comment1.target=Car(int,\ double,\ java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ constructor\ for\ objects\ of\ class\ car\r\n\ \r\n
+comment2.params=
+comment2.target=void\ turnOn()
+comment3.params=
+comment3.target=void\ turnOff()
+comment4.params=
+comment4.target=void\ honk()
+numComments=5
